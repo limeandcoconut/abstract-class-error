@@ -1,0 +1,9 @@
+.babelrc
+.ds_store
+
+*.log
+
+test.js
+
+src
+node_modules
