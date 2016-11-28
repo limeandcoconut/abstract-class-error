@@ -1,0 +1,6 @@
+.ds_store
+
+*.log
+
+dist
+node_modules
