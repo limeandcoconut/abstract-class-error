@@ -16,7 +16,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Removed Babel
 - Addes eslint
 - Reformatted to match linting
-- Upgrade deps and `npm audit fix`
 
 ### Added
 
