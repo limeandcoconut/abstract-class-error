@@ -1,7 +1,6 @@
 # AbstractConstructError
 
 An error designed for being thrown when a class is instantiated, an object created, or a method is not overridden that, was intended to be abstract.
-Testing and dev are done with babel in es6.
 
 ```js
 import AbstractConstructError from 'abstract-class-error';
@@ -20,6 +19,22 @@ class AbstractParent {
     abstractMethod() {}
 }
 ```
+
+## Feedback ✉️
+
+[Website 🌐](https://jacobsmith.tech)
+
+[js@jacobsmith.tech](mailto:js@jacobsmith.tech)
+
+[https://github.com/limeandcoconut](https://github.com/limeandcoconut)
+
+[@limeandcoconut 🐦](https://twitter.com/limeandcoconut)
+
+Cheers!
+
+## License
+
+ISC, see [license](/license) for details.
 
 ## Usage
 
