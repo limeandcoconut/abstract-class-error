@@ -42,4 +42,4 @@ ISC, see [license](/license) for details.
 
 ## License
 
-MIT, see [LICENSE.md](http://github.com/limeandcoconut/abstract-class-error/blob/master/LICENSE.md) for details.
+ISC, see [LICENSE.md](http://github.com/limeandcoconut/abstract-class-error/blob/master/LICENSE.md) for details.
