@@ -7,6 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
   
+## [3.0.0] - 2020-07-15
+
+### Changed 
+
+- Moved files into src
+- Changed to jest
+
+## Added 
+
+- babel
+
 ## [2.0.0] - 2020-07-04
 
 ### Changed
