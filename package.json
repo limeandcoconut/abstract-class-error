@@ -46,7 +46,7 @@
     "eslint-plugin-html": "^6.0.2",
     "eslint-plugin-unicorn": "^20.1.0",
     "eslint-plugin-vue": "^6.2.2",
-    "jest": "^26.1.0",
+    "jest": "^29.3.1",
     "jest-nyancat-reporter": "^2.0.0"
   }
 }
